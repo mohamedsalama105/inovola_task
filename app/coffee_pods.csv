@@ -1,0 +1,27 @@
+product_name,product_type,coffee_flavor,pack_size
+CP001,small coffee pod,vanilla,1
+CP003,small coffee pod,vanilla,3
+CP011,small coffee pod,caramel,1
+CP013,small coffee pod,caramel,3
+CP021,small coffee pod,psl,1
+CP023,small coffee pod,psl,3
+CP031,small coffee pod,mocha,1
+CP033,small coffee pod,mocha,3
+CP041,small coffee pod,hazelnut,1
+CP043,small coffee pod,hazelnut,3
+CP101,large coffee pod,vanilla,1
+CP103,large coffee pod,vanilla,3
+CP111,large coffee pod,caramel,1
+CP113,large coffee pod,caramel,3
+CP121,large coffee pod,psl,1
+CP123,large coffee pod,psl,3
+CP131,large coffee pod,mocha,1
+CP133,large coffee pod,mocha,3
+CP141,large coffee pod,hazelnut,1
+CP143,large coffee pod,hazelnut,3
+EP003,espresso pod,vanilla,3
+EP005,espresso pod,vanilla,5
+EP007,espresso pod,vanilla,7
+EP013,espresso pod,caramel,3
+EP015,espresso pod,caramel,5
+EP017,espresso pod,caramel,7

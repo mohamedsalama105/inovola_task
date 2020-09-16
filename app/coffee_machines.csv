@@ -1,0 +1,10 @@
+product_name,product_type,model_type,water_line_compatible
+CM001,small machine,base model,0
+CM002,small machine,premium model,0
+CM003,small machine,deluxe model,1
+CM101,large machine,base model,0
+CM102,large machine,premium model,1
+CM103,large machine,deluxe model,1
+EM001,espresso machine,base model,0
+EM002,espresso machine,premium model,0
+EM003,espresso machine,deluxe model,1
